@@ -1,1 +1,1 @@
-skins are in releases section, updating every once in a while
+skins are in the skins subfolder section, updating every once in a while
